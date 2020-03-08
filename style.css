@@ -1,7 +1,9 @@
 body {
   padding: 3em;
 }
-
+.blockTxt{
+  text-align: center;
+}
 .construction:after {
   background-color: #fdd400; /* colour of the sign */
   border-radius: 3em;
