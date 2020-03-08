@@ -21,7 +21,7 @@ body {
   font-size: 7px; /* pixel size */
   height: 1em;
   margin-bottom: 37em;
-  margin-left: 17em;
+  margin:0 auto;
   position: relative;
   width: 1em;
   
