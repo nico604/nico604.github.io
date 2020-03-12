@@ -1,1 +1,56 @@
-hello keybase
+==================================================================
+https://keybase.io/hispanoculture
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nico604.github.io
+  * I am hispanoculture (https://keybase.io/hispanoculture) on keybase.
+  * I have a public key ASCCYlSD_kSNlaOxy7DXjM8kjSoTJ75xRj3rCVVzzhA6GQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012082625483fe448d95a3b1cbb0d78ccf248d2a1327be71463deb095573ce103a190a",
+      "host": "keybase.io",
+      "kid": "012082625483fe448d95a3b1cbb0d78ccf248d2a1327be71463deb095573ce103a190a",
+      "uid": "a2419e83a2e4a44c733011b6636c9819",
+      "username": "hispanoculture"
+    },
+    "merkle_root": {
+      "ctime": 1584052238,
+      "hash": "04d9b205c429731d0d901e84dcfdb859520b68ff2de2bbac628117a0cdfe49ad47e8f32605407ce358739de2eac49374139edf0f71acb267922819d972fd4739",
+      "hash_meta": "dd883c359c53a95ccb8e6a3aacec635a500fe94dd58bde7272589e0cca6c513c",
+      "seqno": 15336669
+    },
+    "service": {
+      "entropy": "pn80Djb6jb28poSK2AOhsb99",
+      "hostname": "nico604.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584052275,
+  "expire_in": 504576000,
+  "prev": "4459cb2cac04ff9b15ecb6b37bacef9f8bbd509002656d479832572f5a1d7cfa",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggmJUg/5EjZWjscuw14zPJI0qEye+cUY96wlVc84QOhkKp3BheWxvYWTESpcCDcQgRFnLLKwE/5sV7Laze6zvn4u9UJACZW1HmDJXL1odfPrEINkmcg1fYnYTf3aukdaL2FFKO81geOz7mkxujxLe9CMqAgHCo3NpZ8RAaW00NoivvJlxDzcyr8CD2karcqa540TWoqHU2CYlAxd10ViDPTTM4dP09albfZirRqSE8Qv4FlClXRa0W6ynD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAX++LERaOKcBstnj9K4oEGIKqX1KRycBtfMvlUpsI7Mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hispanoculture
+
+==================================================================
